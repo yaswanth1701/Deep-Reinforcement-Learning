@@ -2,6 +2,7 @@
 ## Environments
 ### Classical control
 #### Algo:
-- Deep Q-net:
-##### - Cartpole
-##### - Mountain car
+- Deep Q-net: 
+- [X] Cartpole
+- [ ] Mountain Car
+
