@@ -4,7 +4,8 @@
 #### Algo:
 - Deep Q-net: 
 - [X] Cartpole
-![image](https://github.com/yaswanth1701/Deep-Reinforcement-Learning/assets/92177410/89a71c8d-3f8f-4633-a698-c1ce97075e4a)
+<img src="https://user-images.githubusercontent.com/92177410/227360283-b990b65a-57cb-473c-b0ba-7eec1dda3158.gif" width="300" height="300">
+</p>
 
 - [ ] Mountain Car
 
