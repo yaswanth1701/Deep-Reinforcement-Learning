@@ -6,8 +6,9 @@
 - [X] Cartpole
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/92177410/227360283-b990b65a-57cb-473c-b0ba-7eec1dda3158.gif" width="300" height="300">
+<img src="https://github.com/yaswanth1701/Deep-Reinforcement-Learning/assets/92177410/8995c48d-06ab-43e9-83cd-1854f028335a" width="300" height="200">
 </p>
+
 
 - [ ] Mountain Car
 
