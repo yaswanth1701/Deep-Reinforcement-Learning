@@ -20,7 +20,7 @@
 
 - [ ] Mountain Car
 #### Algo:
-- Monte Carlo Policy Gradient (REINFORCE)
+- Monte Carlo Policy Gradient (REINFO
 - Actor Critic (TD(0) Error)
 - Advantage Actor Critic (A2C)
 - Actor Critic with eligibility traces
